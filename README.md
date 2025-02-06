@@ -19,7 +19,7 @@ The goals this document is show how install Python and configure Vs Code.
 
 3 - Extensions VSCode Configuration
 
-4 - Malediction of fisrt Code
+4 - Malediction of the fisrt Code
 
 ### Install Ptyhon
 
