@@ -16,6 +16,7 @@ The goals this document is show how install Python and configure Vs Code.
 1 - Install Python
 2 - Instal VSCode
 3 - Extensions VSCode Configuration
+4 - Malediction of fisrt Code...
 
 ### Install Ptyhon
 
