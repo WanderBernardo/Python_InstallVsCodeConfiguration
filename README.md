@@ -14,9 +14,12 @@ The goals this document is show how install Python and configure Vs Code.
 ### Resume:
 
 1 - Install Python
-2 - Instal VSCode
+
+2 - Install VSCode
+
 3 - Extensions VSCode Configuration
-4 - Malediction of fisrt Code...
+
+4 - Malediction of fisrt Code
 
 ### Install Ptyhon
 
@@ -70,3 +73,24 @@ https://code.visualstudio.com/docs/setup/windows
   It is an extension that uses artificial intelligence and the context of your code to create, and offers autocompletes referring to the code you are writing and accelerating the development of your project.
 
   ![image](https://github.com/user-attachments/assets/7b4e7b53-9749-46fe-8bdf-b313f1afcc45)
+
+
+## Malediction of fisrt Code
+
+There is a legend you need to make first code, independent of programming language with print ("Hello World!")
+
+If your first code it's not it. You will be accursed and you don't go to learn  programmation language. In the case, PYTHON!
+
+So, Let's start.
+
+1 - Open "New Files":
+
+![image](https://github.com/user-attachments/assets/e7a471fa-5a72-4e69-9c08-1600ed7e77a5)
+
+2 - In the spacecode type: ``` print("Hello World!!") ```, After, click execute botton and ckeck below.
+
+![image](https://github.com/user-attachments/assets/d22f2f3e-c45f-46e2-8af7-4298b46e02c1)
+
+When create file "Python", remember It save with extension ``` .py ```. Example filename: "FirstCode.py". And it needs to be saving before step 02. Like this, VSCode knows that programming language.
+
+
