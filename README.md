@@ -11,6 +11,12 @@ The goals this document is show how install Python and configure Vs Code.
 - https://docs.python.org/3/using/windows.html#
 - https://code.visualstudio.com/docs/setup/windows
 
+### Resume:
+
+1 - Install Python
+2 - Instal VSCode
+3 - Extensions VSCode Configuration
+
 ### Install Ptyhon
 
 1 - Download Python: https://www.python.org/
