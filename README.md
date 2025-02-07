@@ -94,3 +94,6 @@ So, Let's start.
 When create file "Python", remember It save with extension ``` .py ```. Example filename: "FirstCode.py". And it needs to be saving before step 02. Like this, VSCode knows that programming language.
 
 
+## Next Step:
+
+https://github.com/WanderBernardo/Python_Fundamentals
